@@ -1,5 +1,5 @@
 ### Hi there 👉👈
-- 🔭 I’m currently working on a Nes Emulator 😎 !
+- 🔭 I’m currently working on a Gameboy Emulator 😎 !
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The cake is a lie 🎂
 - 🎸 Also working on my bass skills 
