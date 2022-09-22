@@ -1,4 +1,4 @@
-### Hi there 👉👈
+### Hi there 
 - 🔭 Currently working on graphics programming 😎 !
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The cake is a lie 🎂
