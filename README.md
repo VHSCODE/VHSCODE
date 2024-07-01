@@ -2,7 +2,7 @@
 
 ### About me 
 - 😄 Pronouns: He/Him
-- 🔭 Currently interested in system development and graphics.
+- 🔭 Currently interested in system development, malware research and graphics.
 - 🎸 I love music ! I usually play Bass and Guitar !
 - 🎮 As if it wasn't evident already , i also love videogames !
 <!--
@@ -10,6 +10,6 @@
 
 -->
 ### Current Setup 💻
-- Desktop PC : Fedora 38 (AMD Ryzen 7 2700 + RTX 3060)
-- Laptop : Fedora 38  + LUKS (Intel i5-8250U  + Nvidia MX 150)
+- Desktop PC : OpenSUSE Tumbleweed (AMD Ryzen 7 2700 + RTX 3060)
+- Laptop : OpenSUSE Tumbleweed (Intel i5-8250U  + Nvidia MX 150)
 - Homelab : Raspberry Pi 3 + PiHole + Tailscale
