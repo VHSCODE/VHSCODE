@@ -2,7 +2,7 @@
 
 ### About me 
 - 😄 Pronouns: He/Him
-- 🔭 Currently interested in system development, malware research and graphics.
+- 🔭 Currently interested in system development, reverse engineering and graphics.
 - 🎸 I love music ! I usually play Bass and Guitar !
 - 🎮 As if it wasn't evident already , i also love videogames !
 <!--
