@@ -10,6 +10,6 @@
 
 -->
 ### Current Setup 💻
-- Desktop PC : OpenSUSE Tumbleweed (AMD Ryzen 7 7700X + RTX 3060)
+- Desktop PC : Windows 11 + OpenSUSE Tumbleweed (AMD Ryzen 7 7700X + RTX 3060)
 - Laptop : OpenSUSE Tumbleweed (Intel i5-8250U  + Nvidia MX 150)
 - Homelab : Raspberry Pi 3 + PiHole + Tailscale
